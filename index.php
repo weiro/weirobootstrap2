@@ -13,7 +13,23 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body id="home">
+  <section class="contain er">
+    <div class="content row">
+      <section class="main col col-lg-8">
+        <h2>Main Content</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero esse sapiente repellendus omnis hic fugit minima ab nihil harum. Expedita laboriosam cumque facere necessitatibus perspiciatis praesentium deserunt! Culpa, impedit!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero esse sapiente repellendus omnis hic fugit minima ab nihil harum. Expedita laboriosam cumque facere necessitatibus perspiciatis praesentium deserunt! Culpa, impedit!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero esse sapiente repellendus omnis hic fugit minima ab nihil harum. Expedita laboriosam cumque facere necessitatibus perspiciatis praesentium deserunt! Culpa, impedit!</p>
+      </section> <!-- main -->
+      <section class="sidebar col col-lg-4">
+        <h2>Sidebar</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, similique, ipsam, in quidem consequuntur ratione eaque omnis pariatur laudantium dicta nam placeat reiciendis porro hic quis distinctio asperiores maiores saepe.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, similique, ipsam, in quidem consequuntur ratione eaque omnis pariatur laudantium dicta nam placeat reiciendis porro hic quis distinctio asperiores maiores saepe.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, similique, ipsam, in quidem consequuntur ratione eaque omnis pariatur laudantium dicta nam placeat reiciendis porro hic quis distinctio asperiores maiores saepe.</p>
+      </section> <!-- sidebar -->
+    </div> <!-- content -->
+  </section> <!-- container -->
     <h1>Hello, world!</h1>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscipt.js"></script>
