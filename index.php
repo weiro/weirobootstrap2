@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	p{Welcome!}
+	<p>Welcome!</p>
 </body>
 </html>
