@@ -25,6 +25,6 @@
     </div> <!-- content -->
   </section> <!-- container -->
     <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/myscipt.js"></script>
+    <script src="_/js/myscript.js"></script>
   </body>
 </html>
