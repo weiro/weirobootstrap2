@@ -11,7 +11,7 @@
                 <li><a href="schedule.php">Schedule</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Artists <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"></ul>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
                     <li><a tabindex="-1" href="artists.php">All artists</a></li>
                     <li class="divider"></li>
                     <li><a tabindex="-1" href="artists.php#Barot_Bellingham">Barot Bellingham</a></li>
@@ -26,6 +26,7 @@
                     <li><a tabindex="-1" href="artists.php#Constance_Smith">Constance Smith</a></li>
                     <li><a tabindex="-1" href="artists.php#Xhou_Ta">Xhou Ta</a></li>
                     <li><a tabindex="-1" href="artists.php#Richard_Tweed">Richard Tweed</a></li>
+                  </ul> <!-- dropdown menu -->
                 </li>
                 <li><a href="register.php">Register</a></li>
               </ul> <!-- nav -->
