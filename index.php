@@ -21,6 +21,7 @@
       <section class="main col col-lg-8">
       <?php include '_/components/php/article-intro.php'; ?>
       <?php include '_/components/php/article-abouttheartists.php'; ?>
+      <?php include '_/components/php/article-aboutthevenue.php'; ?>
       </section> <!-- main -->
       <section class="sidebar col col-lg-4">
 
